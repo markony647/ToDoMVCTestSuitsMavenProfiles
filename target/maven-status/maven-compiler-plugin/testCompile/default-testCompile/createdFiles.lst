@@ -1,0 +1,12 @@
+ua\net\vmarchenko\v1\categories\Buggy.class
+ua\net\vmarchenko\v1\features\ToDoMVCTest.class
+ua\net\vmarchenko\v1\AllSuitTest.class
+ua\net\vmarchenko\helpers\GivenHelpers$Task.class
+ua\net\vmarchenko\v1\SmokeSuitTest.class
+ua\net\vmarchenko\v1\BuggySuitTest.class
+ua\net\vmarchenko\v1\categories\Smoke.class
+ua\net\vmarchenko\v1\features\BaseTest.class
+ua\net\vmarchenko\helpers\GivenHelpers$TaskType.class
+ua\net\vmarchenko\helpers\GivenHelpers.class
+ua\net\vmarchenko\v1\FullAcceptanceSuitTest.class
+ua\net\vmarchenko\v1\categories\All.class
