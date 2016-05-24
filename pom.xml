@@ -93,14 +93,14 @@
             <id>smoke</id>
             <properties>
                 <test.includeCategories>ua.net.vmarchenko.v1.categories.Smoke</test.includeCategories>
-                <test.excludeCategories>ua.net.vmarchenko.v1.categories.Buggy</test.excludeCategories>
+                <test.excludeCategories></test.excludeCategories>
             </properties>
         </profile>
 
         <profile>
             <id>fullAcceptance</id>
             <properties>
-                <test.includeCategories>ua.net.vmarchenko.v1.categories.All</test.includeCategories>
+                <test.includeCategories></test.includeCategories>
                 <test.excludeCategories>ua.net.vmarchenko.v1.categories.Buggy</test.excludeCategories>
             </properties>
         </profile>
@@ -108,7 +108,8 @@
         <profile>
             <id>all</id>
             <properties>
-                <test.includeCategories>ua.net.vmarchenko.v1.categories.All</test.includeCategories>
+                <test.includeCategories></test.includeCategories>
+                <test.excludeCategories></test.excludeCategories>
             </properties>
         </profile>
 
@@ -116,6 +117,7 @@
             <id>buggy</id>
             <properties>
                 <test.includeCategories>ua.net.vmarchenko.v1.categories.Buggy</test.includeCategories>
+                <test.excludeCategories></test.excludeCategories>
             </properties>
         </profile>
     </profiles>

@@ -1,10 +1,9 @@
-package ua.net.vmarchenko.helpers;
-
-
+package ua.net.vmarchenko.v1.pages;
 import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.WebDriverRunner.url;
 
-public class GivenHelpers {
+
+public class Givens {
 
     private static String appURL = "https://todomvc4tasj.herokuapp.com/";
 
