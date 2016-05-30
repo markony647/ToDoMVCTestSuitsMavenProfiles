@@ -1,4 +1,4 @@
-package ua.net.vmarchenko.v1.features;
+package ua.net.vmarchenko.v1;
 
 import org.junit.Test;
 import org.junit.experimental.categories.Category;
