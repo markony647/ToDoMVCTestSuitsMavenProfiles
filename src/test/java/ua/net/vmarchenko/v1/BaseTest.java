@@ -11,7 +11,7 @@ import ru.yandex.qatools.allure.annotations.Attachment;
 import java.io.File;
 import java.io.IOException;
 
-
+//This comment was added to run Jenkins job
 public class BaseTest {
     static {
         Configuration.pageLoadStrategy = "normal";
